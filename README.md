@@ -47,7 +47,7 @@ Visit the [MutatedModManager GitHub Releases](https://github.com/Drews-Tools/Mut
 
 ## Extract the Files:
 
-If the executable is part of a compressed archive (e.g., .zip), extract all contents to your desired installation directory, for example, C:\MutatedModManager.
+If the executable is part of a compressed archive (e.g., .zip), extract all contents to your desired installation directory, for example, C:\MutatedModManager, D:\MutatedModManager, E:\MutatedModManager anywhere really, just somewhere you remember where you placed it.
 
 ## Launch the Application:
 
@@ -224,7 +224,7 @@ The player automatically transitions to the next track upon completion of the cu
 ### Authentication Failures:
 
 Issue: Unable to log in or create an account.
-Solution: Ensure that you have an active internet connection. If problems persist, contact support via the [GitHub Issues](https://github.com/Drews-Tools/MutatedModManager/issues) page.
+Solution: Ensure that you have an active internet connection. If problems persist, contact support via the [GitHub Issues](https://github.com/Drews-Tools/Mutated-Mod-Manager/issues) page.
 
 ### Missing DayZTools Executables:
 
@@ -245,7 +245,7 @@ Solution: Confirm that your DayZTools installation is functional. Ensure that th
 
 Issue: Application becomes unresponsive or displays graphical glitches.
 Solution: Restart MutatedModManager. If the problem continues, ensure that your system meets the required specifications and that your graphics drivers are up to date.
-For unresolved issues, please submit a detailed report on the [GitHub Issues](https://github.com/Drews-Tools/MutatedModManager/issues) page.
+For unresolved issues, please submit a detailed report on the [GitHub Issues](https://github.com/Drews-Tools/Mutated-Mod-Manager/issues) page.
 
 Contributing
 MutatedModManager is an open-source project, and contributions are welcome! Whether you're reporting bugs, suggesting features, or submitting code, your input helps improve the tool for everyone.
