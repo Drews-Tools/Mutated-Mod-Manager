@@ -18,7 +18,11 @@ Mod Manager Selection Window
 FoX's Music Manager Window
 ![01 01 2025_00 27 07_REC](https://github.com/user-attachments/assets/d312e96a-4d22-4341-b687-b220af4f4bae)
 
-# FoX & Fungi's Music Manager
+## Supported Mods:
+
+### FoXyRadio
+### RadioFungi
+### X-RED4CTED-X
 
 ## Features
 User Authentication: Secure login system with account creation to manage access.
