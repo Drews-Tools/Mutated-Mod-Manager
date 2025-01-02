@@ -22,7 +22,7 @@ FoX's Music Manager Window
 
 ### FoXyRadio
 ### RadioFungi
-### X-RED4CTED-X
+### X-RED4CTED-X Sound Grenades
 
 ## Features
 User Authentication: Secure login system with account creation to manage access.
