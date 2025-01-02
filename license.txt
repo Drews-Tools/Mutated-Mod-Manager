@@ -1,34 +1,21 @@
- ******    *****   ******   UnRAR - free utility for RAR archives
- **   **  **   **  **   **  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- ******   *******  ******    License for use and distribution of
- **   **  **   **  **   **   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- **   **  **   **  **   **         FREEWARE version
-                                   ~~~~~~~~~~~~~~~~
+MIT License
 
-      The UnRAR utility is freeware. This means:
+Copyright (c) 2025 Drews-Tools
 
-   1. All copyrights to RAR and the utility UnRAR are exclusively
-      owned by the author - Alexander Roshal.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-   2. The UnRAR utility may be freely distributed. It is allowed
-      to distribute UnRAR inside of other software packages.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-   3. THE RAR ARCHIVER AND THE UnRAR UTILITY ARE DISTRIBUTED "AS IS".
-      NO WARRANTY OF ANY KIND IS EXPRESSED OR IMPLIED.  YOU USE AT 
-      YOUR OWN RISK. THE AUTHOR WILL NOT BE LIABLE FOR DATA LOSS, 
-      DAMAGES, LOSS OF PROFITS OR ANY OTHER KIND OF LOSS WHILE USING
-      OR MISUSING THIS SOFTWARE.
-
-   4. Neither RAR binary code, WinRAR binary code, UnRAR source or UnRAR
-      binary code may be used or reverse engineered to re-create the RAR
-      compression algorithm, which is proprietary, without written
-      permission of the author.
-
-   5. If you don't agree with terms of the license you must remove
-      UnRAR files from your storage devices and cease to use the
-      utility.
-
-      Thank you for your interest in RAR and UnRAR.
-
-
-                                            Alexander L. Roshal
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
