@@ -77,12 +77,16 @@ Click "Login".
 Upon successful authentication, you'll gain access to all functionalities of MutatedModManager.
 Note: Authentication data is securely managed through GitHub's private repository. Your credentials are never exposed or stored insecurely.
 
+![01 01 2025_00 30 28_REC](https://github.com/user-attachments/assets/e39c443f-6017-460b-aead-8c377c7b2a32)
+
 
 ### Adding a Single Song:
 
 Navigate to Add Song.
 
 In the main interface, click on the "Add Song" button to open the Add Song dialog.
+
+![01 01 2025_00 32 36_REC](https://github.com/user-attachments/assets/2092a6b5-11fe-4d9b-9332-211cbc6f5177)
 
 ### Fill in Song Details:
 
@@ -103,6 +107,8 @@ The Soundset field auto-populates based on the selected soundshader.
 Click "Save" to add the song to your mod configuration.
 The song will appear in the main song list within MutatedModManager.
 
+![01 01 2025_00 34 38_REC](https://github.com/user-attachments/assets/9fcdde6e-ecba-425d-bb65-375ea98321b8)
+
 ### Navigate to Playlist:
 
 Click on the "Create Playlist" button to switch to the Playlist management interface.
@@ -117,6 +123,7 @@ Use the "Available SoundShaders" list to select multiple soundshaders.
 Click "Add Selected SoundShaders" to include them in the playlist.
 The selected entries will populate the Playlist Configuration section.
 
+
 ### Manage Playlist Entries:
 
 To remove an entry, select it from the playlist and click "Remove Selected".
@@ -126,6 +133,8 @@ To remove an entry, select it from the playlist and click "Remove Selected".
 Click "Save Playlist" to add the playlist to your mod configuration.
 The playlist will appear in the main song list within MutatedModManager.
 Editing Existing Entries
+
+![01 01 2025_00 35 03_REC](https://github.com/user-attachments/assets/03c0e961-adc2-49e6-94ff-d3ed34b31318)
 
 ### Select an Entry:
 
@@ -142,6 +151,8 @@ After making the necessary changes, click "Save" to update the entry.
 The changes will reflect immediately in the main song list.
 Configuring Directories
 
+![01 01 2025_00 32 36_REC](https://github.com/user-attachments/assets/2092a6b5-11fe-4d9b-9332-211cbc6f5177)
+
 ## DayZTools Directory:
 
 Click on the "Browse" button next to the DayZTools Directory field.
@@ -154,6 +165,8 @@ Source Directory: Location where your MP3 files are stored.
 Destination Directory: Where converted OGG files and mod configurations will be saved.
 Use the "Browse" buttons to select the appropriate directories.
 Note: Ensure that the selected directories have the necessary read/write permissions to allow MutatedModManager to perform operations seamlessly.
+
+![01 01 2025_00 31 41_REC](https://github.com/user-attachments/assets/736dfb4e-6274-40bb-9cfa-2097f3d65e76)
 
 ### Generating Scripts and Packing PBO:
 
@@ -189,7 +202,12 @@ Note: Properly managing your PBO keys is crucial for mod authentication and dist
 
 ### Changing Themes:
 
-Navigate to the "Settings" section within the main interface.
+Navigate to the TOP FRAME in the main window program.
+Select your preferred theme from the available options (e.g., Matrix, Awesome Animation, PingPong, Forever).
+
+### Changing Background:
+
+Navigate to the TOP FRAME in the main window program.
 Select your preferred theme from the available options (e.g., Light, DarkGreen, DarkBlue, Purple).
 
 ### Applying Themes:
@@ -202,6 +220,9 @@ Themes adjust background colors, text colors, and UI element styles for optimal 
 Your theme preference is saved automatically and will persist across sessions.
 To switch themes, simply revisit the "Settings" section and select a different option.
 
+![01 01 2025_00 35 36_REC](https://github.com/user-attachments/assets/6c35c10d-6e40-4d67-8e4d-e7d727c45092)
+![01 01 2025_00 35 52_REC](https://github.com/user-attachments/assets/4b1d7e21-2703-4b5e-b560-e861ad139545)
+
 ## Music Player:
 
 ### Selecting Music Directory:
@@ -210,7 +231,6 @@ In the "Music Player" section, browse and select the directory containing your .
 
 ### Playback Controls:
 
-Play/Pause: Toggle playback of the selected track.
 Next/Previous: Navigate through your music library.
 Volume Control: Adjust the playback volume using the slider.
 
@@ -218,6 +238,8 @@ Volume Control: Adjust the playback volume using the slider.
 
 Continuous playback ensures that your music runs smoothly without interruptions.
 The player automatically transitions to the next track upon completion of the current one.
+
+![02 01 2025_21 04 19_REC](https://github.com/user-attachments/assets/0a464fae-db0e-4af5-a226-b8d5fca98cb5)
 
 ## Troubleshooting:
 
