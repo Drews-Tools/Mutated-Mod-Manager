@@ -1,5 +1,5 @@
-# MutatedModManager
-
+# MutatedModManager                                          [Download](https://github.com/Drews-Tools/Mutated-Mod-Manager/releases/download/ModManager/MutatedModManager.rar)
+                                                     
 MutatedModManager is a powerful and user-friendly tool designed to streamline the creation and management of mods for DayZ. Whether you're a seasoned modder or just getting started, MutatedModManager provides all the necessary features to convert, configure, and package your custom assets efficiently. Packed into a standalone executable, it ensures a hassle-free experience without the need for additional dependencies.
 
 
